@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ramakrishna Blog`,
+    title: `Pathlay Blog`,
     author: {
       name: `Ramakrishna Reddy`,
       summary: `who lives in Hyderabad, working in bringing ideas to life`,
